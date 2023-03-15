@@ -1,0 +1,142 @@
+*PHP is scripting language 
+  
+*types of Errors
+Syntax errors    
+_A syntax error occurs when the code given does not follow the syntax rules of the programming language.                                                             
+Logic errors
+_A logic error is an error in the way a program works. The program can run but does not do what it is expected to do.
+Runtime errors
+_Aruntime error is an error that takes place during the running of a program.
+ 
+*Interpreter
+ Python
+ Ruby
+ JavaScript
+
+*types of write code  
+•  Imperative programming
+•  Procedural programming
+•  Functional programming
+•  Declarative programming
+•  Object-oriented programming 
+ 
+AI/ML Companies In Egypt
+
+ABM Egypt	                          NLP, Social Media analytics, Search Engine optimization
+Adam.ai                                  	NLP, machine learning, embedded systems
+Advansy ESC	                         Embedded Software, Big data, IoT
+Affectiva	                     Machine learning, Deep learning, Computer vision, Speech(new project(s))
+Agolo	                                       NLP, ML, DL
+Arqamfc	Analytics
+Ave labs	                   Deep learning, Machine learning techniques, Computer vision, Image Processing and Signal Processing, Control theory & Artificial Intelligence
+AvidBeam	                       Machine learning, OCR, Computer vision, DL
+Elves	                                                    Chatbots
+Bee Smart Payment Solutions	                      ML, Big Data
+Cequens	                              Predictive models, Machine Learning, Chatbots
+Cognitev	                   ML, DL, Recommendation systems, IR (Information Retrieval), NLP (Natural - Language Processing)
+Comiot	                                   Iot, Computer vision, ML
+Crowd Analyzer               	Big data, Machine learning, Social Media Analysis, Arabic in Social Media Analytics
+Data Gear BI         	Data Mining, Business Intelligence(BI)
+El menus	           Recommendation systems, NLP
+Heuro Labs	                Artificial Intelligence, Cognitive Computing, Machine Learning, Big Data, Data Fusion and Data Mining
+IBM Egypt	           NLP(Watson practice team), ML, DL
+Incorta                   	Robotics, computer vision
+InnoVision Systems	     Robotics, computer vision
+Itworx	Big Data
+Knowledge officer	   information retrieval and text summarization for articles on the web. Based mainly for many NLP and recommendation systems
+Mendel.ai	               Artificial Intelligence in Medicine, Machine learning, OCR, NLP
+Microsoft ATLc	               ML, DL, NLP, OCR, Speech, Search engines(Bing team)
+Optomatica	                       Machine Learning, AI and Optimization solutions, Analytics
+Oracle                                     	Machine learning, Big data
+Orange	                                     ML, Big Data, Data Analytics
+Pixellion	                     Image processing, Machine learning, Deep learning, Computer vision, image recognition in the retail industry
+Raisa Energy	                              ML, predictive modeling
+RDI	                Machine learning, Deep learning, Arabic/English OCR, Search engines, Information retrieval, Arabic/English NLP and Arabic/English speech recognition/identification
+Rology	                                  Computer Vision, Medical Image Processing, Machine Learning
+Sadeem®                     	IoT & Business Analytics
+Seeloz	                           Data analytics, ML
+Soho Square Solutions	        IR (Information Retrieval), ML, NLP (Natural - Language Processing)
+Speakol	                     ML, DL, Big Data
+Sypron	                   Big Data, ML, DL, Computer vision, NLP, General AI apps
+Stratochem	       Data analysis, Image processing, data mining
+Tactful            	Conversational Agents, NLU, DL, Information Retrieval
+TA Telecom	                     Big Data
+Teradata	                 Big Data Analytics, machine learning and data mining
+The D. GmbH	                 NLP, Chatbots, Computer Vision, Video Analysis
+Tpay	                          Machine learning
+Usy tech	                         NLP
+Valeo	                   ML, DL, reinforcement learning, Computer vision, Autonomous driving
+Wego	                    Data analysis, machine learning, recommendation systems
+WideBot	                   Chatbots, NLP
+Wuzzuf	                       Machine learning, NLP(new project(s)), Search engines, Recommendation/Ranking systems and information retrieval
+Xtrava	                          Machine learning, Deep learning, Signal processing
+Yaoota!                   	Search engine, Big data, ML, NLP
+Vodafone	            Big data, ML
+Wakeb Data	             Business Intelligence, Data Analysis, Artificial Intelligence
+Synapse Analytics	          ML, Computer Vision
+Asas Alqarar                	Machine Learning, Deep Learning
+Dell EMC	                  Machine Learning, Big Data
+3sixtydental	                  Computer Guided Surgery, Medical Imaging
+Fruitful Solutions	             Deep Learning, Computer Vision
+Advanced Intelligent Technologies	Machine Learning, Deep Learning
+Digified	                      Machine Learning, Computer Vision
+iHub	                        Machine Learning
+Smart Medical Services	        Machine Learning
+DevisionX	               Deep Learning, Computer Vision
+ztechnium	             Machine Learning, Recommendation Systems
+Lyra	                        Machine Learning
+Cammedar Health          	Machine Learning
+Botme	                        Chatbots, NLP
+Converted.in	                Machine Learning
+MerQ	                        Chatbots, NLP
+Digisay	                      Machine Learning, Deep Learning
+Intouch                   	Machine Learning, Deep Learning
+Cassbana	                 Machine Learning, Deep Learning
+Pegasus	                            Data Analytics, BI
+Z2data	                      Data Analytics
+Dataplusme	             Data Analytics, Data Science, Big Data Analytics, Data visualization
+Path Solutions	                         Big Data
+Ingram Micro	             Data Science, Business Intelligence
+Scopic	                         Big Data
+TPay Mobile	               Data Engineering, Data Analytics
+The Procter & Gamble	       Data Science
+Henkel	                      Data Science, Business Intelligence
+Halan	                      Data Analysis, Business Intelligence, Data Science
+Mwasalat Misr	                Data Analysis, Business Intelligence, Data Science
+Swvl	                     Data Analysis, Business Intelligence, Data Science
+Mawdoo3	                              Data Science, NLP
+Botitapp	                  Data Science, NLP
+Koinz	                       Data Analysis
+Brightskies	                Machine Learning, Autonomous Driving
+DXWand	                    Machine Learning, text and speech analytics, NLP, analytics services
+MobiDev	AI apps
+Cyshield	                           Data Science
+Fixed Solutions	                          Data Science
+Nawy	                            Data Science, Business Intelligence
+Lenme	                            Machine Learning
+Atomica                 	Machine Learning, Computer Vision
+blnk.ai	                          Machine Learning
+Aimtechnologies	                Data Science, Machine Learning
+SURE International Technology	   Machine Learning, AI
+BBI-Consultancy    	               Data Science
+Tensorgraph	                AI, Voice Recognition
+Etisalat	               Machine Learning, Data Science
+valify           	         Machine Learning
+tachyhealth	                  Machine Learning
+
+ AI/ML Startups In Egypt
+  SkillDNA
+ Agora for Educational Development
+ WellHiring
+ Partum Electronics
+ Webville_
+ Electric Dreams Solutions
+ WideBot
+ Flash Lead 
+ Egyptian Data Scientists
+Sprints
+MerQ                          Provider of AI and NLP-based chatbots for the finance sector
+WideBot                         Developer of Arabic-focused bot-building platform for enterprises	
+HireHunt                        The platform uses AI technology for candidate screening.
+AvidBeam Technologies             
+Roboost  |                    Provider of AI-enabled delivery management solutions
